@@ -53,6 +53,4 @@ Hashcat is the self-proclaimed world’s fastest password recovery tool. Example
 
 --------------------------------
      
-     
-#This Script Was Made By @cyberghost
 
